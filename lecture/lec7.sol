@@ -1,6 +1,7 @@
 // SPDX-License-Identifier:GPL-30
 pragma solidity >= 0.7.0 < 0.9.0;
 
+//솔리디ㅣ 강좌 6강 function3 - View 와 Pure
 contract lec7 {
     /*
     storage: 대부분의 변수, 함수들이 저장되며, 영속적으로 저장이되어 가스 비용이 비싸답니다.
